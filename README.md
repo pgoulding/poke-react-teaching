@@ -1,3 +1,12 @@
+# Pokemon React Training
+
+I created this project in order to teach the basics of React to other students including: 
+* how to establish class based vs functional components
+* how to send props down
+* how to make an async API call
+* how to build a controlled form component
+* how to iterate over the results
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
